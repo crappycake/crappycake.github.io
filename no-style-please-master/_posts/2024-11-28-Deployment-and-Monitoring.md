@@ -1,3 +1,10 @@
+---
+layout: post
+title: Real-time monitoring(실시간 모니터링)
+subtitle:
+categories: server
+tags: [Server Study]
+---
 # Monitoring
 
 ## Real-time monitoring (실시간 모니터링)
